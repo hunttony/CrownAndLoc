@@ -1,0 +1,13 @@
+{
+  "name": "dishtalgia-kickin-chicken-spaghetti",
+  "version": "1.0.0",
+  "description": "A web application for Dishtalgia's Kickin' Chicken Spaghetti",
+  "main": "./server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
